@@ -19,19 +19,19 @@ This repository contains our game rules, robot documentation, programming notes,
 
 | File | Purpose |
 |---|---|
-| [MATCH_CHEAT_SHEET.md](MATCH_CHEAT_SHEET.md) | Quick match timing, scoring, and reminders |
-| [RULES_AND_PENALTIES.md](RULES_AND_PENALTIES.md) | Important restrictions, fouls, cards, and eligibility |
+| [MATCH_CHEAT_SHEET.md](ftc_rules/cheatsheet.md) | Quick match timing, scoring, and reminders |
+| [RULES_AND_PENALTIES.md](ftc_rulesRULES_AND_PENALTIES.md) | Important restrictions, fouls, cards, and eligibility |
 ### Robot Engineering
 
 | File | Purpose |
 |---|---|
-| [INSPECTION_CHECKLIST.md](INSPECTION_CHECKLIST.md) | Robot legality and inspection readiness |
+| [INSPECTION_CHECKLIST.md](ftc_rules/INSPECTION_CHECKLIST.md) | Robot legality and inspection readiness |
 
 ### Driving and Competition
 
 | File | Purpose |
 |---|---|
-| [COMPETITION_DAY.md](COMPETITION_DAY.md) | Packing, setup, scouting, and event routines |
+| [COMPETITION_DAY.md](ftc_rulesCOMPETITION_DAY.md) | Packing, setup, scouting, and event routines |
 
 ## Team Working Rules
 
