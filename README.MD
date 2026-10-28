@@ -21,24 +21,17 @@ This repository contains our game rules, robot documentation, programming notes,
 |---|---|
 | [MATCH_CHEAT_SHEET.md](MATCH_CHEAT_SHEET.md) | Quick match timing, scoring, and reminders |
 | [RULES_AND_PENALTIES.md](RULES_AND_PENALTIES.md) | Important restrictions, fouls, cards, and eligibility |
-| [SCORING_STRATEGY.md](SCORING_STRATEGY.md) | Scoring priorities and match strategy |
-
 ### Robot Engineering
 
 | File | Purpose |
 |---|---|
-| [ROBOT_DESIGN.md](ROBOT_DESIGN.md) | Robot architecture, mechanisms, and design decisions |
-| [AUTONOMOUS.md](AUTONOMOUS.md) | Autonomous routines, navigation, and testing |
-| [BUILD_AND_MAINTENANCE.md](BUILD_AND_MAINTENANCE.md) | Assembly, wiring, repairs, and spare parts |
 | [INSPECTION_CHECKLIST.md](INSPECTION_CHECKLIST.md) | Robot legality and inspection readiness |
 
 ### Driving and Competition
 
 | File | Purpose |
 |---|---|
-| [DRIVER_PLAYBOOK.md](DRIVER_PLAYBOOK.md) | Driver roles, controls, and match plans |
 | [COMPETITION_DAY.md](COMPETITION_DAY.md) | Packing, setup, scouting, and event routines |
-| [TEST_LOG.md](TEST_LOG.md) | Robot tests, results, and improvements |
 
 ## Team Working Rules
 
